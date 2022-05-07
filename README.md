@@ -1,5 +1,7 @@
 # Brainfuck commands
 
+The language consists of eight commands, listed below. A brainfuck program is a sequence of these commands, possibly interspersed with other characters (which are ignored).
+
 | Character | Meaning |
 |-----------|---------|
 | >         | Increment the data pointer (to point to the next cell to the right). |
